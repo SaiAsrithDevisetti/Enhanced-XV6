@@ -1,6 +1,4 @@
 # Enhanced xv6
-# Sai Madhusudan Gunda
-# Devisetti Sai Asrith
 
 ## Spec 1 : System Calls
 Added System calls
@@ -107,3 +105,7 @@ inserted at the tail of the same queue, from which it is relinquished earlier.
 Solution: The above case can be used by process when it yields its CPU time before
 (Allocated time as in for I/O). Now when it is back in the list we have added it tot the
 back of the queue with same queue number
+
+Done by: 
+Devisetti Sai Asrith
+Sai Madhusudan Gunda
